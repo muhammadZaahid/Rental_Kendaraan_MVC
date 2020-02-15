@@ -1,0 +1,44 @@
+﻿@model IEnumerable<UAS_20170140120_DeckyAprianto.Models.Makanan>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<br />
+<h2 style="color:#acdf87">Makanan</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead style="color:#acdf87">
+        <tr>
+            <th>
+                @Html.DisplayName("Paket Makanan")
+            </th>
+            <th>
+                @Html.DisplayName("Harga Permakanan")
+            </th>
+            <th>
+                <a asp-area="" asp-controller="Upload" asp-action="Index">Upload</a>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr style="color:aliceblue">
+            <td>
+                @Html.DisplayFor(modelItem => item.PaketMakanan)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HargaPermakanan)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdMakanan">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdMakanan">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdMakanan">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

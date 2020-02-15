@@ -1,0 +1,193 @@
+﻿@*@model IEnumerable<UAS_20170140120_DeckyAprianto.Models.Reservasi>*@
+
+@model PaginatedList<UAS_20170140120_DeckyAprianto.Models.Reservasi>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<br />
+<h2 style="color:#acdf87">Reservasi</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr style="color:#acdf87">
+            <th>
+                @*@Html.DisplayName("Nama Customer")*@
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["DateSortParm"]" asp-route-currentFilter="@ViewData["CurrentFilter"]">Nama Customer</a>
+            </th>
+            <th>
+                @Html.DisplayName("Alamat")
+            </th>
+            <th>
+                @Html.DisplayName("No Hp")
+            </th>
+            <th>
+                @Html.DisplayName("Tanggal Lahir")
+            </th>
+            <th>
+                @Html.DisplayName("Jenis Kelamin")
+            </th>
+            <th>
+                @Html.DisplayName("Jumlah Tamu")
+            </th>
+            <th>
+                @*@Html.DisplayName("Tgl Cekin")*@
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]" asp-route-currentFilter="@ViewData["CurrentFilter"]">Tgl Cekin</a>
+            </th>
+            <th>
+                @*@Html.DisplayName("Tgl Cekout")*@
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm1"]" asp-route-currentFilter="@ViewData["CurrentFilter"]">Tgl Cekout</a>
+            </th>
+            <th>
+                @Html.DisplayName("Hari Permalam")
+            </th>
+            <th>
+                @Html.DisplayName("Lantai")
+            </th>
+            <th>
+                @Html.DisplayName("Biaya Kamar")
+            </th>
+            <th>
+                @Html.DisplayName("Banyak Makanan")
+            </th>
+            <th>
+                @Html.DisplayName("Harga Makanan")
+            </th>
+            <th>
+                @Html.DisplayName("Banyak Hari")
+            </th>
+            <th>
+                @Html.DisplayName("Harga Service")
+            </th>
+            <th>
+                @Html.DisplayName("Total")
+            </th>
+            <th>
+                @Html.DisplayName("Credit Card")
+            </th>
+            <th>
+                @Html.DisplayName("No Cc")
+            </th>
+            <th>
+                @Html.DisplayName("Status")
+            </th>
+            <th>
+                @Html.DisplayName("Id Kamar1 Navigation")
+            </th>
+            <th>
+                @Html.DisplayName("Id Kamar Navigation")
+            </th>
+            <th>
+                @Html.DisplayName("Makanan")
+            </th>
+            <th>
+                @Html.DisplayName("Room Service")
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr style="color:aliceblue">
+                <td >
+                    @Html.DisplayFor(modelItem => item.NamaCustomer)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Alamat)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NoHp)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TanggalLahir)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.JenisKelamin)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.JumlahTamu)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TglCekin)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TglCekout)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Haripermalam)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Lantai)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BiayaKamar)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BanyakMakanan)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HargaMakanan)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BanyakHari)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HargaService)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Total)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CreditCard)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NoCc)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdKamar1Navigation.IdKamar)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdKamarNavigation.IdKamar)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdMakananNavigation.IdMakanan)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdRoomserviceNavigation.IdRoomservice)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.IdReservasi">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.IdReservasi">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.IdReservasi">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+
+<a asp-action="Index"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex - 1)"
+   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+   class="btn btn-default @prevDisabled">
+    Previous
+</a>
+<a asp-action="Index"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex + 1)"
+   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+   class="btn btn-default @nextDisabled">
+    Next
+</a>

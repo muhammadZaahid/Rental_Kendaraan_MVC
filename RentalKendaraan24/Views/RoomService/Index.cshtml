@@ -1,0 +1,41 @@
+﻿@model IEnumerable<UAS_20170140120_DeckyAprianto.Models.RoomService>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<br />
+<h2 style="color:#acdf87">Room Service</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead style="color:#acdf87">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PaketService)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HargaPerservice)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr style="color:aliceblue">
+            <td>
+                @Html.DisplayFor(modelItem => item.PaketService)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HargaPerservice)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdRoomservice">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdRoomservice">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdRoomservice">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

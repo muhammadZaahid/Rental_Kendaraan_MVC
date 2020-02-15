@@ -1,0 +1,159 @@
+﻿@model UAS_20170140120_DeckyAprianto.Models.Reservasi
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Reservasi</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NamaCustomer)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NamaCustomer)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Alamat)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Alamat)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NoHp)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NoHp)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TanggalLahir)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TanggalLahir)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.JenisKelamin)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.JenisKelamin)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.JumlahTamu)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.JumlahTamu)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TglCekin)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TglCekin)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TglCekout)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TglCekout)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Haripermalam)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Haripermalam)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Lantai)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Lantai)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.BiayaKamar)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.BiayaKamar)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.BanyakMakanan)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.BanyakMakanan)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.HargaMakanan)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.HargaMakanan)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.BanyakHari)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.BanyakHari)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.HargaService)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.HargaService)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Total)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Total)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CreditCard)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CreditCard)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NoCc)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NoCc)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.IdKamar1Navigation)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IdKamar1Navigation.IdKamar)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.IdKamarNavigation)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IdKamarNavigation.IdKamar)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.IdMakananNavigation)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IdMakananNavigation.IdMakanan)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.IdRoomserviceNavigation)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IdRoomserviceNavigation.IdRoomservice)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="IdReservasi" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

@@ -1,0 +1,57 @@
+﻿@model IEnumerable<UAS_20170140120_DeckyAprianto.Models.Kamar>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<br />
+<h2 style="color:#acdf87">Data Daftar Kamar</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead style="color:#acdf87">
+        <tr>
+            <th>
+                @Html.DisplayName("Type Kamar")
+            </th>
+            <th>
+                @Html.DisplayName("No Kamar")
+            </th>
+            <th>
+                @Html.DisplayName("Lantai")
+            </th>
+            <th>
+                @Html.DisplayName("Biaya")
+            </th>
+            <th>
+                @Html.DisplayName("Status")
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr style="color:aliceblue">
+                <td>
+                    @Html.DisplayFor(modelItem => item.TypeKamar)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NoKamar)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Lantai)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Biaya)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+           
+            </tr>
+        }
+    </tbody>
+</table>

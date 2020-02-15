@@ -1,0 +1,279 @@
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.deps.json
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.runtimeconfig.json
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.runtimeconfig.dev.json
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.dll
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.pdb
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.Views.dll
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.Views.pdb
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.csprojAssemblyReference.cache
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.csproj.CoreCompileInputs.cache
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.RazorAssemblyInfo.cache
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.RazorAssemblyInfo.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.AssemblyInfoInputs.cache
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.AssemblyInfo.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.TagHelpers.input.cache
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.TagHelpers.output.cache
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.RazorCoreGenerate.cache
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.RazorTargetAssemblyInfo.cache
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.RazorTargetAssemblyInfo.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.Views.pdb
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.dll
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.pdb
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.csproj.CopyComplete
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Role\Index.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Role\Create.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Kamar\Create.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Kamar\Delete.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Kamar\Details.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Kamar\Edit.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Kamar\Index.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Makanan\Create.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Makanan\Delete.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Makanan\Details.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Makanan\Edit.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Makanan\Index.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Reservasi\Create.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Reservasi\Delete.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Reservasi\Details.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Reservasi\Edit.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Reservasi\Index.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\RoomService\Create.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\RoomService\Delete.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\RoomService\Details.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\RoomService\Edit.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\RoomService\Index.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Upload\Files.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Upload\Index.g.cshtml.cs
+D:\DataKuliah\Semester 5\Pengembangan Aplikasi Web\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout_Dashio.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.deps.json
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.runtimeconfig.json
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.runtimeconfig.dev.json
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.dll
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.pdb
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.Views.dll
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.Views.pdb
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.csprojAssemblyReference.cache
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.csproj.CoreCompileInputs.cache
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.RazorAssemblyInfo.cache
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.RazorAssemblyInfo.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.AssemblyInfoInputs.cache
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.AssemblyInfo.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.TagHelpers.input.cache
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.TagHelpers.output.cache
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.RazorCoreGenerate.cache
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Kamar\Create.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Kamar\Delete.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Kamar\Details.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Kamar\Edit.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Kamar\Index.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Makanan\Create.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Makanan\Delete.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Makanan\Details.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Makanan\Edit.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Makanan\Index.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Reservasi\Create.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Reservasi\Delete.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Reservasi\Details.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Reservasi\Edit.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Reservasi\Index.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Role\Create.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Role\Index.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\RoomService\Create.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\RoomService\Delete.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\RoomService\Details.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\RoomService\Edit.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\RoomService\Index.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout_Dashio.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Upload\Files.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Upload\Index.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.RazorTargetAssemblyInfo.cache
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.RazorTargetAssemblyInfo.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.Views.pdb
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.dll
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.pdb
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.csproj.CopyComplete
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.deps.json
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.runtimeconfig.json
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.runtimeconfig.dev.json
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.dll
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.pdb
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.Views.dll
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\bin\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.Views.pdb
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.csprojAssemblyReference.cache
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.csproj.CoreCompileInputs.cache
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.RazorAssemblyInfo.cache
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.RazorAssemblyInfo.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.AssemblyInfoInputs.cache
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.AssemblyInfo.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.TagHelpers.input.cache
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.TagHelpers.output.cache
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.RazorCoreGenerate.cache
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Kamar\Create.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Kamar\Delete.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Kamar\Details.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Kamar\Edit.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Kamar\Index.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Makanan\Create.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Makanan\Delete.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Makanan\Details.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Makanan\Edit.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Makanan\Index.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Reservasi\Create.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Reservasi\Delete.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Reservasi\Details.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Reservasi\Edit.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Reservasi\Index.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Role\Create.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Role\Index.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\RoomService\Create.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\RoomService\Delete.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\RoomService\Details.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\RoomService\Edit.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\RoomService\Index.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout_Dashio.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Upload\Files.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\Upload\Index.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.RazorTargetAssemblyInfo.cache
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.RazorTargetAssemblyInfo.cs
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.Views.pdb
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.dll
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.pdb
+D:\ZAAHID\College\PKW\ASU\UAS_20170140120_DeckyAprianto_ver.2\UAS_20170140120_DeckyAprianto\obj\Debug\netcoreapp2.1\UAS_20170140120_DeckyAprianto.csproj.CopyComplete
